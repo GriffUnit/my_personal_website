@@ -940,6 +940,7 @@ a:hover.back-to-top {
 	padding-top: 8.5rem;
 	padding-bottom: 4rem;
 	background-color: #24262a;
+	margin-bottom: 30px;
 }
 
 .ex-header h1 {
@@ -1213,6 +1214,7 @@ a:hover.back-to-top {
 	.h1-large {
 		font-size: 3.75rem;
 		line-height: 4.625rem;
+		text-align: center;
 	}
 	/* end of general styles */
 
@@ -1256,6 +1258,7 @@ a:hover.back-to-top {
 	.split .text-container {
 		width: 460px;
 		margin-left: 5rem;
+		text-align: center;
 	}
 	/* end of details */
 
